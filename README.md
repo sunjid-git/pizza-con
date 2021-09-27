@@ -1,6 +1,6 @@
 ### `Pizza Con`
 
-# [Live](---)
+# [Live](https://pizza-con.netlify.app/)
 
 
 ## `Functionality`
